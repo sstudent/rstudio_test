@@ -20,7 +20,9 @@ git remote add origin git@github.com:sstudent/rstudio_test.git
 git push -u origin master
 
 
-git checkout <SHA> <filename>
+git checkout 16bd552b <filename>
   
   
   glupota
+
+glo
