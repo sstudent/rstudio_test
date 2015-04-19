@@ -13,3 +13,8 @@ ggg
 
 
 sdfsdf
+
+
+git remote add origin git@github.com:sstudent/rstudio_test.git
+
+git push -u origin master
