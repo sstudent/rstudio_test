@@ -21,3 +21,6 @@ git push -u origin master
 
 
 git checkout <SHA> <filename>
+  
+  
+  glupota
