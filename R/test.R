@@ -1,9 +1,9 @@
-%test
+#%test
 
 
 
-git config --global user.email "sebastian.student@polsl.pl"
-git config --global user.name "sstudent"
+git config --global user.email "___@polsl.pl"
+git config --global user.name "___"
 
 
 
@@ -15,4 +15,4 @@ git push -u origin master
 
 git checkout 16bd552b <filename>
   
-beta next6
+beta next7
