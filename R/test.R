@@ -15,4 +15,4 @@ git push -u origin master
 
 git checkout 16bd552b <filename>
   
-beta next
+beta next3 
